@@ -6,6 +6,9 @@
 
 Meet **Quillbert**, the friendly hedgehog who helps keep your discussions sharp but never hurtful.
 
+### ⚡️ Install
+ - https://github.com/apps/quillbertbot
+
 ### ✨ Features
 - **Softens the Spikes**: Identifies comments that might be a bit too "prickly" and suggests kinder, more collaborative ways to express feedback.
 - **Fosters Collaboration**: Promotes a respectful tone, helping teams work together more effectively.
