@@ -1,3 +1,7 @@
+
+<img src="https://github.com/user-attachments/assets/319fa29f-3e88-42d5-ad1c-1127178db4f0" alt="Quillbert" width="350" />
+
+
 # 🦔 Quillbert
 
 Meet **Quillbert**, the friendly hedgehog who helps keep your discussions sharp but never hurtful.
