@@ -12,5 +12,5 @@ Meet **Quillbert**, the friendly hedgehog who helps keep your discussions sharp 
 2. If a comment is flagged as too harsh, Quillbert suggests a softer, more respectful alternative.
 
 ### ❤️ Support
-If you are regularly using quillbert please know that there are operational costs and the easiest way to help is via:
-https://github.com/sponsors/zieka
+- If you are regularly using quillbert please know that there are operational costs and the easiest way to help is via:
+  https://github.com/sponsors/zieka
